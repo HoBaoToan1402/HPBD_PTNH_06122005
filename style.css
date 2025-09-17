@@ -48,9 +48,10 @@ body {
 
 @media (max-width: 600px) {
   .friend-photo {
-    width: 150px;
-    height: 150px;
-    object-position: center 15%;
+    width: 140px;
+    height: 140px;
+    object-position: center 60%;
+    margin: 10px auto 20px auto;
   }
 
 }
