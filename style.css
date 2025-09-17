@@ -22,6 +22,7 @@ body {
 }
 
 .friend-photo {
+  max-width: 100%;
   width: 200px;
   height: 200px;
   object-fit: cover;
@@ -47,8 +48,8 @@ body {
 
 @media (max-width: 600px) {
   .friend-photo {
-    width: 140px;
-    height: 140px;
+    width: 150px;
+    height: 150px;
     object-position: center 15%;
   }
 
