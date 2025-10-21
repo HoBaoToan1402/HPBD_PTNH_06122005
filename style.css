@@ -102,7 +102,7 @@ body::after {
   margin-top: 10px;
 }
 
-.card .btn-secret:hover, .card .btn-music::hover {
+.card .btn-secret:hover, .card .btn-music:hover {
   background-color: #ff85c1;
 }
 
