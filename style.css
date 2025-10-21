@@ -14,8 +14,8 @@ body {
   border-radius: 20px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.2);
   text-align: center;
-  max-width: 90%;
-  width: 650px;
+  max-width: 650px;
+  width: 100%;
   margin: auto;
   animation: flashIn 1s ease-in-out;
   gap: 20px;
